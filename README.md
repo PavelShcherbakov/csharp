@@ -5,7 +5,7 @@
 
 | Pattern | Description | Status |
 |:-------:|:----------- |:------:|
-| [Abstract Factory](/Creational/Abstract factory/AbstractFactory.md) | Provides an interface for creating families of releated objects | ✘ |
+| [Abstract Factory](/Creational/Abstract%20factory/AbstractFactory.md) | Provides an interface for creating families of releated objects | ✘ |
 | [Builder](/creational/builder.md) | Builds a complex object using simple objects | ✔ |
 | [Factory Method](/creational/factory.md) | Defers instantiation of an object to a specialized function for creating instances | ✔ |
 | [Object Pool](/creational/object-pool.md) | Instantiates and maintains a group of objects instances of the same type | ✔ |
